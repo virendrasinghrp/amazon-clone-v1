@@ -1,0 +1,13 @@
+.main-section-banner{
+	background-image: url("banner3.png");
+	background-position: center;
+	background-size: cover;
+}
+
+.main-sidebar .main-section{
+	position: fixed;
+}
+
+html, body{
+	 overflow-y: auto;
+}
